@@ -20,4 +20,4 @@ manually?
 
 What happens when you initialize a repository? Why do you need to do it?
 
-Just you have to type commnad : git init to initialize.
+Just you have to type commnad : git init to initialize., we need this to keep our first snapshot backup.
